@@ -1,6 +1,6 @@
 {
   "name":"raeespisces-calculator",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "a simple calculator wih typescript, Node.js and inquirer",
   "main": "index.js",
   "type": "module",
